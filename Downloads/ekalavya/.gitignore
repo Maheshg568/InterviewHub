@@ -1,4 +1,31 @@
 node_modules/
+dist/
+build/
+.vite/
+coverage/
+.DS_Store
+*.log
+*.tmp
+.env
+/.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Python
+__pycache__/
+*.py[cod]
+
+# VSCode
+.vscode/
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ininode_modules/
 build/
 dist/
 coverage/
