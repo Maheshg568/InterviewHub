@@ -1,0 +1,501 @@
+student_id,topic,quiz_score,reading_time_seconds,quiz_time_seconds,attempts,hints_used,wrong_answers,correct_answers,mood,ease_rating,confidence_score,previous_score,improvement_rate,mistake_type,learning_style,proof_of_thought_score,socratic_engagement,teaching_verification,cognitive_depth,effort_consistency,needs_support,recommended_difficulty,learning_pace
+S082,Fractions,74,395,286,1,0,3,8,confident,2,66,79,-5,reading_mistake,audio,99,90,16,72,66,0,medium,normal
+S029,Algebra,61,289,314,2,1,5,6,need_revision,2,72,57,4,repeated_topic_weakness,step_by_step,47,49,64,55,75,1,medium,normal
+S055,Fractions,39,270,409,2,7,6,4,confident,2,34,39,0,calculation_mistake,audio,75,92,74,61,47,1,easy,normal
+S072,Algebra,79,105,112,1,0,2,9,need_revision,1,89,89,-10,repeated_topic_weakness,step_by_step,73,29,86,56,63,0,medium,normal
+S054,Algebra,88,304,210,2,2,2,9,confused,2,87,85,3,reading_mistake,visual,73,57,100,39,58,0,hard,fast
+S055,Geometry,73,278,158,3,1,3,7,confident,3,66,87,-14,calculation_mistake,text,42,87,68,53,80,1,medium,normal
+S049,Fractions,59,167,263,3,1,4,6,confused,3,56,65,-6,reading_mistake,step_by_step,76,30,51,57,57,1,medium,normal
+S094,Photosynthesis,48,407,224,2,4,5,6,confused,3,10,38,10,careless_mistake,visual,99,75,42,44,81,1,easy,slow
+S074,Algebra,48,350,438,2,2,6,5,need_revision,3,40,59,-11,concept_confusion,audio,84,40,54,81,76,0,easy,slow
+S011,Algebra,15,595,416,1,4,8,2,want_challenge,3,15,26,-11,careless_mistake,text,80,47,48,76,77,1,easy,slow
+S021,Geometry,59,656,406,5,1,5,6,confused,1,46,72,-13,repeated_topic_weakness,text,84,40,49,37,81,1,medium,normal
+S078,Algebra,90,567,382,1,0,1,9,confused,4,88,96,-6,calculation_mistake,audio,76,57,82,86,49,0,hard,fast
+S082,Essay Writing,82,78,339,1,1,3,8,confident,3,89,71,11,reading_mistake,visual,67,74,55,75,85,0,hard,fast
+S005,Geometry,58,114,321,4,2,4,8,confused,1,43,71,-13,concept_confusion,audio,97,46,31,73,48,0,medium,slow
+S028,Photosynthesis,41,72,349,2,3,6,4,confused,1,59,51,-10,repeated_topic_weakness,practice,34,67,56,61,56,1,easy,slow
+S096,Essay Writing,58,221,228,2,0,4,6,confused,3,78,55,3,time_pressure,practice,86,57,55,91,63,1,medium,normal
+S066,Photosynthesis,50,25,242,2,0,6,5,confident,3,58,63,-13,concept_confusion,visual,77,93,38,96,59,0,medium,normal
+S081,Algebra,39,475,344,2,3,6,4,need_revision,3,63,28,11,careless_mistake,step_by_step,41,53,75,100,71,1,easy,slow
+S068,Geometry,84,864,454,4,1,4,9,want_challenge,2,70,80,4,concept_confusion,visual,75,47,60,50,61,0,hard,fast
+S088,Essay Writing,81,37,395,3,0,3,9,need_revision,4,100,89,-8,repeated_topic_weakness,text,58,63,86,75,53,0,hard,fast
+S056,Algebra,47,192,379,2,3,5,5,confused,3,45,51,-4,repeated_topic_weakness,text,100,81,29,51,88,1,easy,normal
+S081,Geometry,41,468,362,1,3,6,4,need_revision,3,36,43,-2,time_pressure,step_by_step,86,61,66,54,87,1,easy,slow
+S098,Algebra,54,667,164,1,1,5,7,confused,3,66,42,12,time_pressure,visual,55,55,71,89,82,1,medium,slow
+S003,Fractions,61,35,269,1,0,4,7,want_challenge,2,68,73,-12,reading_mistake,audio,71,73,56,64,70,0,medium,normal
+S008,Algebra,66,1045,222,1,1,4,8,want_challenge,2,80,78,-12,concept_confusion,visual,50,50,40,91,58,0,medium,normal
+S094,Photosynthesis,47,184,267,1,2,5,5,need_revision,1,37,34,13,time_pressure,audio,61,74,94,74,68,0,easy,normal
+S085,Photosynthesis,63,499,271,1,1,7,6,want_challenge,2,62,53,10,calculation_mistake,text,76,98,71,63,93,0,medium,normal
+S068,Essay Writing,77,424,164,1,0,2,8,confused,2,82,63,14,calculation_mistake,step_by_step,79,43,58,64,100,1,medium,normal
+S089,Algebra,67,573,455,1,1,3,7,need_revision,3,87,53,14,careless_mistake,text,74,60,97,85,56,0,medium,normal
+S057,Essay Writing,67,388,97,1,1,4,9,confused,4,68,53,14,calculation_mistake,audio,60,82,36,57,68,1,medium,normal
+S003,Essay Writing,42,177,348,3,2,6,4,stressed,2,30,55,-13,time_pressure,audio,71,50,22,70,51,1,easy,normal
+S030,Fractions,41,79,496,2,3,7,4,want_challenge,2,41,49,-8,reading_mistake,visual,76,100,58,47,37,1,easy,slow
+S086,Photosynthesis,82,676,201,1,0,2,8,confident,2,68,71,11,calculation_mistake,step_by_step,75,34,33,64,64,0,hard,fast
+S074,Photosynthesis,22,181,270,3,3,8,2,confident,5,25,33,-11,careless_mistake,practice,86,32,76,46,62,1,easy,normal
+S085,Photosynthesis,53,57,213,2,1,6,5,confused,2,64,61,-8,careless_mistake,practice,86,71,70,95,88,1,medium,normal
+S087,Fractions,63,68,364,2,0,4,7,confident,2,37,71,-8,repeated_topic_weakness,text,94,47,80,82,81,0,medium,normal
+S014,Algebra,50,159,543,1,3,7,5,confident,3,73,63,-13,time_pressure,practice,76,51,55,51,75,1,medium,normal
+S036,Photosynthesis,56,328,79,2,1,4,6,confident,3,71,55,1,concept_confusion,practice,53,22,84,73,34,0,medium,normal
+S007,Essay Writing,19,171,443,3,4,8,4,need_revision,2,24,7,12,concept_confusion,audio,100,68,58,76,89,1,easy,slow
+S062,Algebra,56,48,375,3,1,4,6,want_challenge,2,58,48,8,concept_confusion,audio,86,26,52,75,73,0,medium,slow
+S001,Photosynthesis,82,269,206,1,2,3,8,confident,2,74,70,12,careless_mistake,text,71,81,31,90,67,0,hard,fast
+S094,Essay Writing,56,487,385,2,0,5,6,stressed,1,39,64,-8,careless_mistake,audio,67,36,70,45,83,1,medium,normal
+S008,Essay Writing,51,217,234,3,2,5,5,need_revision,1,22,59,-8,concept_confusion,text,67,63,100,37,90,0,medium,normal
+S007,Essay Writing,11,224,424,1,2,10,1,confused,1,0,18,-7,time_pressure,audio,100,54,85,27,75,1,easy,normal
+S024,Fractions,65,271,158,1,2,4,8,stressed,1,51,67,-2,repeated_topic_weakness,audio,76,34,83,56,62,1,medium,normal
+S073,Algebra,85,90,431,1,1,2,8,stressed,1,88,91,-6,concept_confusion,step_by_step,68,52,70,65,70,0,hard,fast
+S073,Essay Writing,38,248,287,3,3,7,4,confident,3,47,27,11,reading_mistake,audio,73,40,73,25,85,1,easy,slow
+S031,Geometry,74,69,462,1,2,3,7,confused,4,81,77,-3,repeated_topic_weakness,text,55,62,60,76,68,1,medium,normal
+S097,Fractions,79,894,450,2,1,2,8,confident,3,82,90,-11,time_pressure,step_by_step,36,79,57,64,72,0,medium,normal
+S010,Essay Writing,58,205,237,1,3,4,6,confident,4,38,72,-14,reading_mistake,audio,65,85,78,76,90,0,medium,normal
+S032,Geometry,92,15,402,1,2,1,9,confident,3,83,95,-3,careless_mistake,step_by_step,69,73,65,60,84,0,hard,fast
+S079,Essay Writing,54,11,159,1,0,6,6,confident,3,60,67,-13,time_pressure,text,31,84,81,7,80,0,medium,normal
+S018,Geometry,60,185,399,1,0,4,7,confident,5,50,56,4,concept_confusion,step_by_step,36,24,47,75,65,1,medium,normal
+S037,Essay Writing,48,151,199,1,2,6,5,confident,2,31,58,-10,reading_mistake,audio,83,47,81,65,70,0,easy,slow
+S065,Photosynthesis,69,702,392,2,1,3,8,confident,2,61,62,7,concept_confusion,visual,81,47,55,56,64,0,medium,normal
+S082,Photosynthesis,41,475,216,2,2,6,4,need_revision,3,28,34,7,concept_confusion,visual,73,30,50,47,69,0,easy,slow
+S099,Algebra,75,398,279,1,0,2,8,stressed,3,75,75,0,reading_mistake,audio,59,64,64,83,100,1,medium,normal
+S071,Photosynthesis,54,522,432,2,4,6,6,stressed,1,74,45,9,concept_confusion,visual,82,80,63,64,67,1,medium,normal
+S070,Fractions,48,114,386,1,2,5,5,need_revision,2,50,51,-3,time_pressure,step_by_step,74,91,63,65,79,0,easy,normal
+S056,Algebra,68,32,317,1,0,4,7,confident,3,85,79,-11,reading_mistake,visual,39,48,100,82,95,0,medium,normal
+S027,Algebra,52,516,283,2,0,5,5,stressed,3,51,39,13,reading_mistake,step_by_step,45,56,77,79,86,1,medium,normal
+S031,Algebra,91,95,365,1,1,2,10,want_challenge,2,72,90,1,calculation_mistake,practice,98,100,31,51,62,0,hard,fast
+S095,Geometry,97,10,51,1,2,0,10,need_revision,4,100,100,-3,careless_mistake,audio,42,53,50,59,46,0,hard,fast
+S014,Photosynthesis,76,479,255,1,0,2,8,want_challenge,1,52,73,3,careless_mistake,audio,85,65,74,47,76,0,medium,normal
+S026,Photosynthesis,68,10,208,1,0,5,7,confident,2,84,59,9,calculation_mistake,audio,73,38,84,72,62,0,medium,normal
+S004,Algebra,56,33,439,1,1,4,8,confused,3,47,67,-11,reading_mistake,visual,91,100,60,100,87,0,medium,slow
+S045,Essay Writing,62,12,449,1,1,4,7,confused,1,77,60,2,time_pressure,text,49,49,77,82,100,1,medium,normal
+S034,Algebra,63,381,303,1,1,4,6,stressed,3,79,73,-10,reading_mistake,visual,67,50,96,35,48,1,medium,normal
+S056,Geometry,69,173,404,1,2,3,7,need_revision,4,89,68,1,reading_mistake,practice,84,45,98,29,49,0,medium,normal
+S078,Essay Writing,93,215,229,1,1,1,10,confident,2,73,100,-7,time_pressure,audio,91,76,40,82,59,0,hard,fast
+S091,Photosynthesis,33,72,272,1,3,8,3,confident,4,45,39,-6,time_pressure,audio,86,84,89,58,75,1,easy,normal
+S086,Geometry,90,608,274,1,0,1,10,stressed,2,88,95,-5,repeated_topic_weakness,visual,49,94,80,50,33,0,hard,fast
+S053,Geometry,34,271,350,1,3,7,3,confused,3,35,26,8,reading_mistake,step_by_step,57,98,61,64,83,1,easy,slow
+S087,Algebra,74,868,296,2,0,5,7,stressed,5,57,63,11,reading_mistake,practice,100,22,83,66,53,1,medium,normal
+S001,Geometry,81,1503,260,1,0,2,9,confident,2,92,67,14,careless_mistake,step_by_step,84,72,90,54,71,0,hard,fast
+S042,Photosynthesis,44,51,190,2,3,6,4,confused,1,68,38,6,repeated_topic_weakness,audio,90,60,97,72,70,1,easy,normal
+S085,Fractions,66,84,181,1,2,3,8,confident,3,71,69,-3,repeated_topic_weakness,step_by_step,54,54,31,58,55,0,medium,normal
+S043,Fractions,42,537,108,3,3,6,5,need_revision,3,69,50,-8,calculation_mistake,text,74,48,75,57,81,1,easy,normal
+S019,Fractions,74,35,72,1,1,3,8,confident,2,57,68,6,careless_mistake,step_by_step,64,75,79,45,82,0,medium,normal
+S099,Fractions,53,165,232,2,1,7,5,confused,3,53,65,-12,repeated_topic_weakness,step_by_step,67,71,41,74,49,1,medium,slow
+S064,Photosynthesis,78,337,145,1,1,2,9,confident,3,73,75,3,repeated_topic_weakness,visual,47,45,53,56,58,0,medium,normal
+S099,Fractions,65,483,323,2,0,4,8,need_revision,1,90,79,-14,calculation_mistake,audio,78,77,29,86,80,0,medium,normal
+S090,Essay Writing,58,164,181,2,0,5,6,confused,2,69,72,-14,time_pressure,audio,100,67,68,53,72,0,medium,normal
+S059,Algebra,61,457,192,1,0,5,6,need_revision,2,44,49,12,repeated_topic_weakness,step_by_step,26,67,93,20,88,0,medium,normal
+S077,Geometry,14,282,302,3,3,9,2,want_challenge,3,15,0,14,careless_mistake,step_by_step,69,76,92,71,70,1,easy,slow
+S071,Photosynthesis,38,202,262,1,2,6,5,want_challenge,2,36,35,3,repeated_topic_weakness,practice,79,74,55,26,88,1,easy,slow
+S034,Algebra,87,63,98,1,1,2,9,need_revision,2,99,78,9,reading_mistake,step_by_step,62,63,68,60,76,0,hard,fast
+S031,Geometry,88,109,349,1,2,1,9,confused,5,96,94,-6,repeated_topic_weakness,text,85,55,44,67,90,0,hard,fast
+S070,Fractions,45,339,357,1,4,6,4,confident,1,33,40,5,calculation_mistake,practice,93,56,64,41,63,1,easy,normal
+S009,Photosynthesis,47,451,69,2,6,6,5,confused,2,45,42,5,time_pressure,practice,88,11,63,29,65,1,easy,slow
+S050,Essay Writing,62,642,397,1,2,4,7,want_challenge,2,63,63,-1,concept_confusion,step_by_step,43,40,89,46,54,1,medium,normal
+S001,Geometry,75,57,328,1,0,2,8,confident,2,84,61,14,careless_mistake,practice,96,42,47,79,69,0,medium,normal
+S069,Essay Writing,49,242,262,1,4,6,5,need_revision,3,35,42,7,calculation_mistake,practice,49,20,100,37,66,1,easy,normal
+S050,Geometry,59,653,165,5,1,6,7,stressed,3,63,65,-6,careless_mistake,audio,70,94,71,66,59,1,medium,normal
+S080,Essay Writing,41,175,296,2,4,6,4,confident,4,44,30,11,careless_mistake,step_by_step,67,35,60,42,61,1,easy,normal
+S011,Photosynthesis,76,242,371,1,0,3,8,confident,4,64,62,14,careless_mistake,audio,82,75,87,72,77,0,medium,normal
+S007,Geometry,69,39,10,1,1,3,8,confused,2,62,66,3,calculation_mistake,practice,73,43,100,54,71,1,medium,normal
+S098,Photosynthesis,51,247,506,3,2,5,5,confident,4,61,39,12,careless_mistake,text,89,4,81,51,56,0,medium,normal
+S061,Fractions,48,124,286,5,3,6,5,need_revision,2,64,41,7,concept_confusion,text,77,60,75,42,95,1,easy,normal
+S100,Fractions,98,358,241,1,2,1,10,need_revision,1,93,100,-2,calculation_mistake,audio,50,67,67,40,56,0,hard,fast
+S080,Algebra,72,86,277,1,1,4,7,confident,1,85,63,9,careless_mistake,visual,66,55,72,93,87,0,medium,normal
+S073,Algebra,57,464,289,2,1,4,6,confused,5,47,66,-9,reading_mistake,text,100,64,87,39,70,1,medium,normal
+S100,Algebra,73,21,369,2,1,3,9,want_challenge,1,57,86,-13,concept_confusion,step_by_step,53,80,58,64,71,0,medium,normal
+S004,Geometry,64,473,86,2,1,4,7,stressed,2,87,65,-1,careless_mistake,practice,77,77,63,56,100,0,medium,normal
+S026,Fractions,70,517,224,1,1,3,7,stressed,3,90,75,-5,repeated_topic_weakness,audio,90,32,9,81,51,1,medium,normal
+S099,Geometry,69,285,378,1,1,3,7,want_challenge,2,80,58,11,time_pressure,visual,81,100,43,60,91,0,medium,normal
+S073,Fractions,63,1242,345,2,2,4,6,confident,4,66,49,14,careless_mistake,text,59,34,74,55,74,0,medium,normal
+S009,Essay Writing,56,1328,327,1,0,6,6,stressed,3,47,42,14,concept_confusion,practice,100,46,24,75,88,1,medium,slow
+S014,Photosynthesis,34,602,424,3,2,8,4,want_challenge,3,30,46,-12,repeated_topic_weakness,practice,65,48,58,68,61,1,easy,normal
+S056,Algebra,61,432,445,1,1,5,7,need_revision,2,55,59,2,repeated_topic_weakness,text,47,82,62,16,82,1,medium,normal
+S069,Photosynthesis,54,404,290,2,1,7,5,confused,3,46,66,-12,repeated_topic_weakness,step_by_step,54,100,57,54,68,1,medium,normal
+S012,Geometry,60,14,129,1,0,5,6,want_challenge,3,42,68,-8,calculation_mistake,practice,44,74,52,61,62,1,medium,normal
+S086,Photosynthesis,50,534,303,2,0,7,6,confident,1,60,46,4,careless_mistake,text,68,77,57,42,64,0,medium,normal
+S063,Algebra,57,887,443,3,0,6,6,confused,2,62,49,8,reading_mistake,text,69,47,68,45,50,1,medium,slow
+S072,Fractions,52,45,296,1,1,5,5,confused,1,63,60,-8,calculation_mistake,visual,89,100,70,65,65,1,medium,slow
+S063,Essay Writing,29,223,250,1,2,8,4,need_revision,1,31,20,9,repeated_topic_weakness,practice,89,98,63,45,47,1,easy,slow
+S058,Fractions,28,764,141,3,5,8,3,confident,3,18,30,-2,calculation_mistake,practice,86,35,76,81,72,1,easy,slow
+S085,Essay Writing,48,289,279,1,3,6,6,confused,3,30,41,7,time_pressure,step_by_step,70,79,70,47,75,1,easy,slow
+S046,Photosynthesis,42,53,310,2,3,6,4,confident,1,52,49,-7,reading_mistake,audio,90,53,50,56,86,1,easy,normal
+S041,Fractions,67,267,243,1,1,4,7,need_revision,1,65,75,-8,repeated_topic_weakness,audio,63,38,56,37,66,0,medium,normal
+S025,Algebra,58,50,377,1,2,4,6,need_revision,4,40,47,11,reading_mistake,step_by_step,94,62,95,100,70,0,medium,slow
+S013,Algebra,73,43,288,2,0,3,7,confident,2,73,62,11,reading_mistake,audio,68,58,69,64,83,0,medium,normal
+S039,Fractions,34,174,151,2,3,9,3,need_revision,2,24,35,-1,calculation_mistake,text,100,61,77,49,51,1,easy,normal
+S071,Geometry,68,262,247,2,0,4,8,stressed,3,74,74,-6,calculation_mistake,practice,85,65,74,81,71,1,medium,normal
+S002,Essay Writing,71,39,260,1,2,3,8,confident,3,86,81,-10,careless_mistake,practice,100,35,28,98,81,0,medium,normal
+S044,Algebra,68,134,353,1,1,4,8,want_challenge,3,52,58,10,reading_mistake,practice,54,77,80,61,86,0,medium,normal
+S015,Fractions,93,514,430,1,2,2,10,confused,4,71,92,1,concept_confusion,step_by_step,78,48,78,83,78,0,hard,fast
+S020,Essay Writing,73,285,297,1,1,3,7,want_challenge,2,74,70,3,concept_confusion,audio,67,45,71,50,79,0,medium,normal
+S016,Essay Writing,41,421,292,2,3,6,4,need_revision,4,45,42,-1,time_pressure,step_by_step,71,60,31,84,57,1,easy,normal
+S100,Essay Writing,71,658,10,1,0,4,8,confused,3,74,59,12,careless_mistake,text,97,67,54,59,43,1,medium,normal
+S055,Geometry,51,297,259,1,1,5,5,stressed,2,53,53,-2,concept_confusion,step_by_step,28,51,68,38,73,1,medium,normal
+S081,Algebra,86,713,288,1,1,1,9,confident,3,73,91,-5,concept_confusion,audio,78,79,89,61,72,0,hard,fast
+S071,Fractions,52,456,268,2,0,6,5,confident,1,48,50,2,careless_mistake,practice,64,66,21,86,57,0,medium,slow
+S038,Fractions,93,611,383,2,1,1,10,confident,4,87,78,15,repeated_topic_weakness,text,100,53,77,49,67,0,hard,fast
+S059,Fractions,65,93,199,1,1,4,6,stressed,2,25,64,1,reading_mistake,step_by_step,83,54,83,41,91,1,medium,normal
+S026,Photosynthesis,53,182,213,1,2,5,5,confident,2,49,58,-5,calculation_mistake,audio,44,84,48,72,51,0,medium,normal
+S010,Fractions,100,326,483,2,2,0,10,confident,3,100,86,14,reading_mistake,step_by_step,100,57,51,59,78,0,hard,fast
+S073,Geometry,66,23,173,1,0,4,7,confused,2,70,58,8,careless_mistake,text,62,82,75,56,76,1,medium,normal
+S035,Essay Writing,71,18,474,3,0,3,7,confused,4,59,84,-13,careless_mistake,visual,83,63,70,91,67,1,medium,normal
+S056,Geometry,38,296,294,3,4,7,5,stressed,4,46,52,-14,concept_confusion,visual,67,28,74,100,49,1,easy,normal
+S098,Geometry,68,1191,233,1,4,5,7,stressed,2,80,53,15,calculation_mistake,practice,99,55,71,81,76,1,medium,normal
+S036,Algebra,75,141,436,1,1,2,8,want_challenge,3,66,71,4,careless_mistake,practice,40,44,71,44,46,0,medium,normal
+S061,Geometry,38,471,139,4,3,6,4,confused,1,48,48,-10,reading_mistake,visual,53,74,43,74,95,1,easy,slow
+S037,Photosynthesis,54,248,117,2,2,5,7,need_revision,2,32,46,8,time_pressure,visual,74,48,44,52,76,0,medium,slow
+S012,Geometry,65,157,370,2,2,4,8,confident,2,40,54,11,concept_confusion,practice,89,15,100,77,67,0,medium,normal
+S066,Fractions,53,385,241,1,2,5,5,stressed,2,65,46,7,time_pressure,practice,96,54,87,38,52,1,medium,normal
+S067,Geometry,82,60,357,1,3,2,9,stressed,4,87,93,-11,careless_mistake,practice,72,25,80,32,36,0,hard,fast
+S037,Photosynthesis,59,894,207,3,0,5,6,want_challenge,3,54,69,-10,careless_mistake,visual,74,73,73,76,60,0,medium,normal
+S081,Essay Writing,53,122,189,5,2,5,6,need_revision,2,51,57,-4,repeated_topic_weakness,audio,75,53,86,67,71,0,medium,slow
+S071,Fractions,47,258,330,2,2,5,5,stressed,4,49,35,12,concept_confusion,audio,74,30,85,60,90,0,easy,normal
+S060,Fractions,60,821,252,3,0,4,6,stressed,1,53,56,4,calculation_mistake,practice,39,82,52,90,61,1,medium,normal
+S091,Geometry,30,396,256,2,4,7,3,confused,2,23,43,-13,careless_mistake,practice,75,68,61,68,69,1,easy,slow
+S025,Essay Writing,67,1158,206,1,1,3,7,confused,3,100,54,13,calculation_mistake,visual,51,39,69,61,59,1,medium,normal
+S054,Geometry,68,23,291,1,2,3,7,want_challenge,3,85,68,0,time_pressure,text,90,75,100,100,55,0,medium,normal
+S001,Geometry,36,65,443,2,5,7,5,need_revision,2,67,47,-11,time_pressure,step_by_step,52,57,71,63,45,1,easy,slow
+S020,Photosynthesis,56,170,474,2,1,4,8,confused,4,44,45,11,reading_mistake,text,56,40,27,69,49,1,medium,slow
+S059,Geometry,30,171,427,2,3,8,3,want_challenge,3,18,31,-1,repeated_topic_weakness,audio,73,75,30,65,82,1,easy,normal
+S100,Photosynthesis,59,329,276,2,1,4,8,confident,4,50,54,5,repeated_topic_weakness,practice,87,34,73,26,94,0,medium,slow
+S050,Algebra,55,70,296,1,1,4,6,confused,4,56,67,-12,concept_confusion,audio,85,66,76,79,65,1,medium,slow
+S013,Photosynthesis,52,111,309,2,0,7,7,confident,1,53,43,9,careless_mistake,visual,25,45,43,50,85,1,medium,slow
+S084,Algebra,93,647,310,1,1,1,9,confident,1,77,91,2,reading_mistake,text,65,11,96,50,71,0,hard,fast
+S051,Fractions,87,467,337,1,1,2,10,want_challenge,1,83,82,5,repeated_topic_weakness,step_by_step,63,32,53,80,100,0,hard,fast
+S041,Photosynthesis,33,283,112,3,3,8,3,want_challenge,3,19,46,-13,concept_confusion,step_by_step,52,51,45,73,82,1,easy,slow
+S030,Fractions,60,68,31,1,1,4,6,confused,3,81,72,-12,concept_confusion,visual,89,66,76,81,82,1,medium,normal
+S089,Geometry,86,68,290,1,0,1,9,want_challenge,2,100,85,1,concept_confusion,text,53,58,89,50,69,0,hard,fast
+S038,Geometry,66,20,272,2,1,3,8,confused,3,49,72,-6,calculation_mistake,audio,56,74,94,42,91,1,medium,normal
+S073,Algebra,55,129,287,2,2,6,6,confident,3,46,48,7,concept_confusion,step_by_step,97,68,80,72,52,0,medium,slow
+S080,Algebra,66,333,440,1,0,5,8,confused,3,77,55,11,time_pressure,audio,76,91,70,45,44,1,medium,normal
+S082,Geometry,48,316,450,1,5,6,5,confused,2,31,55,-7,repeated_topic_weakness,visual,92,71,83,38,71,1,easy,slow
+S087,Essay Writing,63,303,182,1,1,4,6,confident,2,78,51,12,careless_mistake,text,80,66,64,73,80,0,medium,normal
+S076,Geometry,52,73,345,2,2,6,6,stressed,3,30,65,-13,careless_mistake,text,100,45,69,52,78,1,medium,slow
+S026,Photosynthesis,82,1025,544,1,0,5,8,want_challenge,1,78,88,-6,concept_confusion,audio,59,86,77,81,100,0,hard,fast
+S046,Essay Writing,84,265,333,3,1,2,8,confident,3,52,95,-11,repeated_topic_weakness,text,19,32,87,59,80,1,hard,fast
+S085,Photosynthesis,63,210,393,1,2,6,6,confident,2,74,48,15,time_pressure,visual,81,71,47,99,62,0,medium,normal
+S078,Photosynthesis,58,10,334,3,3,4,6,need_revision,3,40,48,10,reading_mistake,audio,57,64,56,64,94,1,medium,slow
+S029,Algebra,80,20,316,1,2,4,10,stressed,2,70,81,-1,repeated_topic_weakness,audio,57,65,66,83,68,1,hard,fast
+S081,Fractions,61,20,251,4,1,4,6,confident,1,57,55,6,careless_mistake,visual,67,44,71,60,78,0,medium,normal
+S075,Geometry,40,124,158,1,3,8,5,need_revision,1,52,54,-14,concept_confusion,text,100,64,43,36,70,1,easy,slow
+S023,Algebra,36,250,378,1,3,7,4,confident,4,31,36,0,time_pressure,text,74,60,43,71,92,1,easy,slow
+S022,Geometry,72,846,301,1,2,3,8,want_challenge,2,61,86,-14,careless_mistake,text,100,60,91,61,95,0,medium,normal
+S096,Geometry,59,1054,400,3,0,5,7,need_revision,3,56,72,-13,careless_mistake,visual,100,100,89,48,65,0,medium,normal
+S097,Algebra,79,392,114,1,0,2,8,want_challenge,3,100,76,3,repeated_topic_weakness,practice,80,65,72,87,80,0,medium,normal
+S072,Geometry,62,129,181,1,2,4,6,confident,3,59,53,9,careless_mistake,visual,87,90,66,92,75,0,medium,normal
+S034,Essay Writing,68,141,278,2,1,4,8,confident,4,46,77,-9,reading_mistake,text,86,83,60,28,65,0,medium,normal
+S075,Photosynthesis,69,98,210,1,1,3,8,need_revision,2,80,82,-13,reading_mistake,visual,74,64,61,72,86,0,medium,normal
+S087,Algebra,48,219,275,2,2,5,5,confused,2,66,38,10,time_pressure,step_by_step,100,36,87,66,78,1,easy,normal
+S083,Fractions,45,1041,201,1,4,6,4,stressed,2,33,30,15,careless_mistake,text,76,60,63,74,62,1,easy,normal
+S005,Geometry,56,82,198,1,2,4,6,want_challenge,3,59,48,8,concept_confusion,visual,84,77,68,71,80,0,medium,normal
+S069,Algebra,77,158,188,1,2,3,8,confused,2,61,86,-9,reading_mistake,step_by_step,74,65,63,33,75,1,medium,normal
+S096,Algebra,50,898,341,3,0,5,5,want_challenge,2,50,55,-5,repeated_topic_weakness,visual,64,65,90,74,74,0,medium,slow
+S079,Photosynthesis,31,53,203,3,3,7,4,want_challenge,3,20,16,15,reading_mistake,visual,87,90,57,69,74,1,easy,normal
+S057,Photosynthesis,72,413,143,1,0,4,7,want_challenge,3,49,61,11,reading_mistake,visual,72,31,78,22,85,0,medium,normal
+S088,Geometry,73,194,343,1,0,4,7,confused,2,60,71,2,repeated_topic_weakness,text,72,76,58,54,92,1,medium,normal
+S036,Algebra,73,456,213,1,1,3,7,want_challenge,2,70,63,10,careless_mistake,visual,78,69,45,61,76,0,medium,normal
+S085,Algebra,58,162,317,1,3,4,6,stressed,4,52,50,8,time_pressure,visual,57,22,96,52,100,1,medium,normal
+S073,Algebra,100,97,229,1,1,0,10,confident,2,91,92,8,time_pressure,audio,75,95,65,64,80,0,hard,fast
+S030,Geometry,39,468,470,2,3,7,5,need_revision,2,56,27,12,time_pressure,visual,70,91,33,51,44,1,easy,normal
+S017,Essay Writing,72,695,333,2,1,3,7,confident,2,76,59,13,calculation_mistake,visual,76,57,76,45,82,0,medium,normal
+S085,Fractions,97,349,407,1,1,1,10,confident,1,100,100,-3,reading_mistake,audio,73,38,92,54,84,0,hard,fast
+S003,Algebra,87,124,253,1,0,3,9,confident,2,72,96,-9,calculation_mistake,practice,50,48,62,61,62,0,hard,fast
+S096,Fractions,57,262,291,1,1,4,6,confused,3,55,43,14,reading_mistake,step_by_step,71,45,96,68,70,1,medium,slow
+S065,Algebra,42,114,281,1,2,6,4,want_challenge,2,20,49,-7,concept_confusion,step_by_step,87,73,49,59,60,0,easy,slow
+S059,Fractions,26,200,232,2,4,7,3,confident,2,5,32,-6,careless_mistake,practice,68,58,71,84,86,1,easy,normal
+S063,Photosynthesis,53,84,173,1,0,6,6,confident,1,38,42,11,concept_confusion,text,72,69,51,88,52,0,medium,normal
+S009,Algebra,57,1471,279,1,4,5,6,confident,1,83,43,14,repeated_topic_weakness,step_by_step,100,82,100,60,69,1,medium,slow
+S042,Photosynthesis,57,98,355,1,1,4,7,want_challenge,5,63,45,12,time_pressure,text,96,50,82,78,95,0,medium,slow
+S065,Essay Writing,97,256,391,1,1,1,10,confused,3,82,100,-3,repeated_topic_weakness,visual,56,66,33,93,87,0,hard,fast
+S099,Essay Writing,74,553,452,2,2,4,7,need_revision,2,73,72,2,calculation_mistake,practice,66,63,49,72,66,0,medium,normal
+S058,Algebra,43,426,272,1,3,8,6,confused,3,25,35,8,careless_mistake,practice,66,38,66,55,68,1,easy,slow
+S041,Geometry,1,164,328,1,2,10,0,confused,3,0,15,-14,calculation_mistake,practice,73,83,67,61,78,1,easy,normal
+S012,Photosynthesis,47,288,303,2,3,5,5,confident,2,51,60,-13,repeated_topic_weakness,text,68,79,59,20,68,0,easy,normal
+S076,Essay Writing,24,638,465,1,4,8,2,stressed,3,19,27,-3,repeated_topic_weakness,visual,96,74,93,50,43,1,easy,slow
+S093,Fractions,85,65,334,1,1,2,8,want_challenge,2,86,88,-3,time_pressure,text,54,59,63,56,70,0,hard,fast
+S074,Essay Writing,80,95,457,1,2,3,10,confident,1,86,69,11,repeated_topic_weakness,practice,66,39,89,40,94,0,hard,fast
+S014,Geometry,59,159,459,2,0,4,7,need_revision,2,51,47,12,reading_mistake,visual,50,59,62,81,92,0,medium,slow
+S074,Algebra,94,183,202,1,0,1,9,need_revision,1,96,96,-2,time_pressure,step_by_step,35,26,44,54,55,0,hard,fast
+S004,Essay Writing,75,70,227,1,1,4,8,want_challenge,3,95,86,-11,repeated_topic_weakness,text,87,93,59,54,72,0,medium,normal
+S004,Algebra,85,611,437,1,1,2,8,confident,1,64,76,9,reading_mistake,text,49,36,88,90,46,1,hard,fast
+S024,Algebra,62,164,440,1,1,5,6,stressed,3,39,67,-5,careless_mistake,visual,100,43,53,57,82,1,medium,normal
+S082,Fractions,69,144,270,1,3,4,8,confident,1,75,76,-7,time_pressure,audio,96,71,57,54,52,1,medium,normal
+S059,Geometry,64,10,266,3,2,5,6,confident,2,76,51,13,reading_mistake,text,67,48,6,100,86,0,medium,normal
+S100,Essay Writing,57,47,227,1,1,5,7,stressed,3,59,46,11,concept_confusion,audio,43,20,53,36,100,1,medium,normal
+S035,Photosynthesis,79,1241,292,3,0,3,8,stressed,3,60,88,-9,careless_mistake,step_by_step,66,51,55,89,84,1,medium,normal
+S035,Algebra,100,10,305,1,1,0,10,need_revision,3,85,99,1,concept_confusion,text,74,42,38,70,64,0,hard,fast
+S037,Essay Writing,55,152,359,3,1,6,6,confused,3,62,68,-13,repeated_topic_weakness,text,76,75,100,50,87,1,medium,slow
+S077,Fractions,100,18,428,1,2,0,10,confident,3,79,100,0,reading_mistake,audio,49,7,54,82,44,0,hard,fast
+S038,Geometry,41,241,326,2,2,7,4,confident,3,62,31,10,careless_mistake,practice,93,43,39,52,53,0,easy,normal
+S017,Photosynthesis,65,174,358,1,1,4,6,confused,2,61,55,10,calculation_mistake,step_by_step,76,61,57,42,69,1,medium,normal
+S086,Geometry,82,156,512,2,0,3,9,confident,2,100,82,0,repeated_topic_weakness,visual,49,42,46,50,77,0,hard,fast
+S010,Geometry,53,145,501,2,1,6,6,stressed,1,29,45,8,time_pressure,practice,99,81,77,100,47,1,medium,slow
+S038,Fractions,90,805,414,2,1,1,10,confused,2,84,87,3,reading_mistake,audio,62,32,78,55,70,0,hard,fast
+S089,Geometry,53,342,317,2,1,6,5,confident,3,46,50,3,concept_confusion,audio,66,83,82,32,75,0,medium,slow
+S076,Photosynthesis,25,217,304,3,3,8,4,confused,3,29,32,-7,careless_mistake,text,78,41,61,61,72,1,easy,normal
+S010,Essay Writing,67,93,264,3,0,4,8,stressed,5,69,62,5,time_pressure,step_by_step,61,39,65,79,60,1,medium,normal
+S100,Geometry,62,325,334,3,1,5,7,confused,2,63,54,8,repeated_topic_weakness,audio,68,59,75,50,86,1,medium,normal
+S019,Geometry,93,154,126,3,2,3,9,confident,3,97,99,-6,time_pressure,audio,49,61,68,32,81,0,hard,fast
+S023,Photosynthesis,84,149,227,1,0,2,9,confused,1,65,70,14,time_pressure,step_by_step,67,34,51,57,60,1,hard,fast
+S073,Essay Writing,16,230,308,2,6,8,2,confident,4,19,30,-14,repeated_topic_weakness,text,80,75,62,50,67,1,easy,normal
+S061,Photosynthesis,57,74,165,1,3,4,6,stressed,3,59,42,15,reading_mistake,step_by_step,49,82,63,58,82,1,medium,slow
+S005,Fractions,85,80,328,1,0,2,10,confused,3,100,80,5,reading_mistake,visual,63,62,100,65,69,1,hard,fast
+S012,Essay Writing,71,421,298,1,3,4,7,stressed,1,63,74,-3,careless_mistake,practice,43,63,51,57,60,1,medium,normal
+S006,Photosynthesis,40,223,326,2,4,7,6,want_challenge,4,38,45,-5,time_pressure,audio,44,55,69,91,71,1,easy,normal
+S008,Photosynthesis,52,102,210,2,1,6,5,confident,4,52,45,7,reading_mistake,visual,50,68,47,61,51,0,medium,normal
+S006,Algebra,29,62,286,1,2,7,4,need_revision,3,23,36,-7,careless_mistake,step_by_step,75,51,100,91,68,1,easy,normal
+S047,Geometry,93,179,438,2,3,3,10,want_challenge,1,97,78,15,careless_mistake,practice,57,45,84,32,94,0,hard,fast
+S007,Geometry,81,135,251,2,0,3,9,confident,3,64,75,6,concept_confusion,step_by_step,92,43,92,31,73,0,hard,fast
+S087,Photosynthesis,34,616,325,2,3,7,3,confident,4,43,39,-5,repeated_topic_weakness,step_by_step,90,62,95,100,62,1,easy,slow
+S011,Essay Writing,56,744,190,2,4,4,6,stressed,1,67,60,-4,reading_mistake,text,53,99,62,74,49,1,medium,slow
+S017,Essay Writing,56,747,346,2,1,5,9,need_revision,3,25,64,-8,concept_confusion,text,63,81,62,48,61,0,medium,slow
+S083,Geometry,100,414,432,1,2,0,10,need_revision,1,86,96,4,repeated_topic_weakness,step_by_step,18,60,75,90,85,0,hard,fast
+S066,Geometry,67,167,508,1,0,3,7,confident,1,62,53,14,reading_mistake,audio,79,45,95,73,42,0,medium,normal
+S028,Geometry,82,313,265,2,2,3,10,want_challenge,2,63,89,-7,careless_mistake,audio,64,53,70,51,59,0,hard,fast
+S029,Algebra,98,543,312,3,0,1,10,confident,4,99,99,-1,reading_mistake,visual,62,45,100,85,52,0,hard,fast
+S070,Essay Writing,71,143,334,3,0,4,7,confident,3,100,66,5,reading_mistake,step_by_step,47,68,51,48,81,1,medium,normal
+S049,Algebra,53,211,433,4,0,6,5,confident,3,60,66,-13,repeated_topic_weakness,step_by_step,28,53,97,67,57,0,medium,normal
+S093,Photosynthesis,64,1077,539,1,1,4,6,confident,3,56,75,-11,reading_mistake,audio,82,74,54,63,69,0,medium,normal
+S057,Essay Writing,93,154,283,1,3,1,9,confident,4,97,100,-7,repeated_topic_weakness,practice,32,75,51,53,58,1,hard,fast
+S061,Algebra,59,436,328,2,1,4,7,confused,4,66,64,-5,time_pressure,practice,65,35,68,56,63,1,medium,slow
+S100,Photosynthesis,66,32,147,3,2,3,8,confused,2,72,63,3,careless_mistake,audio,84,65,45,66,55,1,medium,normal
+S078,Algebra,52,718,376,1,0,6,5,want_challenge,4,45,65,-13,concept_confusion,practice,72,27,58,83,67,0,medium,slow
+S071,Fractions,72,114,343,1,1,3,7,need_revision,4,53,84,-12,time_pressure,visual,66,63,68,68,78,0,medium,normal
+S037,Fractions,61,96,423,2,2,4,6,need_revision,1,81,70,-9,reading_mistake,practice,87,31,54,88,89,0,medium,normal
+S066,Algebra,74,234,366,1,1,3,7,need_revision,3,70,78,-4,concept_confusion,audio,65,22,55,39,60,0,medium,normal
+S058,Geometry,62,262,468,1,1,4,7,want_challenge,4,60,54,8,careless_mistake,visual,62,63,25,57,87,0,medium,normal
+S051,Essay Writing,76,379,84,2,1,3,9,confused,3,81,86,-10,careless_mistake,visual,74,85,27,62,87,1,medium,normal
+S004,Geometry,63,109,270,1,2,4,6,want_challenge,2,60,57,6,repeated_topic_weakness,text,79,20,54,58,60,0,medium,normal
+S019,Algebra,49,416,172,2,5,5,5,confident,2,29,41,8,careless_mistake,audio,61,58,72,65,89,1,easy,slow
+S058,Essay Writing,16,244,389,2,5,8,2,confident,2,0,29,-13,concept_confusion,visual,82,71,82,84,75,1,easy,normal
+S071,Essay Writing,44,442,85,1,2,6,4,confused,2,60,44,0,concept_confusion,text,66,68,81,62,65,1,easy,normal
+S007,Algebra,65,89,485,2,1,4,6,confused,2,100,58,7,time_pressure,practice,69,49,59,49,66,1,medium,normal
+S064,Essay Writing,48,622,338,2,3,5,5,confused,3,16,59,-11,repeated_topic_weakness,step_by_step,91,49,49,45,44,1,easy,slow
+S055,Fractions,65,10,316,2,1,4,8,stressed,5,52,67,-2,calculation_mistake,step_by_step,98,52,52,92,79,1,medium,normal
+S086,Fractions,70,239,202,1,1,4,7,confused,2,64,83,-13,reading_mistake,visual,38,35,63,20,54,1,medium,normal
+S065,Essay Writing,53,111,293,2,1,6,6,confident,3,46,43,10,careless_mistake,visual,73,92,47,53,89,0,medium,slow
+S048,Geometry,72,339,282,1,0,3,7,need_revision,3,66,66,6,reading_mistake,visual,50,44,56,32,55,0,medium,normal
+S045,Algebra,79,137,329,2,0,2,8,need_revision,2,100,67,12,repeated_topic_weakness,visual,70,38,74,72,50,0,medium,normal
+S099,Essay Writing,52,603,247,2,5,5,5,need_revision,1,78,61,-9,reading_mistake,audio,78,91,60,24,82,1,medium,slow
+S083,Algebra,28,709,494,2,2,7,3,need_revision,4,28,37,-9,repeated_topic_weakness,practice,43,58,52,23,77,1,easy,slow
+S081,Algebra,40,158,283,2,4,6,4,need_revision,2,53,42,-2,concept_confusion,practice,59,60,51,64,43,1,easy,normal
+S006,Algebra,54,236,340,2,0,5,6,want_challenge,2,39,61,-7,reading_mistake,text,68,39,61,75,89,0,medium,slow
+S070,Photosynthesis,84,74,149,2,1,3,8,confident,3,85,90,-6,repeated_topic_weakness,audio,42,84,71,56,81,0,hard,fast
+S007,Geometry,75,1100,348,1,3,2,8,confident,4,83,69,6,reading_mistake,practice,87,57,52,75,69,0,medium,normal
+S096,Photosynthesis,37,273,404,1,3,6,4,want_challenge,4,55,27,10,careless_mistake,text,63,57,90,35,76,1,easy,slow
+S089,Photosynthesis,50,1081,299,3,1,6,5,confused,3,32,42,8,time_pressure,text,94,55,88,71,39,1,medium,slow
+S011,Photosynthesis,69,261,268,1,0,3,7,stressed,4,73,69,0,calculation_mistake,step_by_step,50,61,29,66,45,1,medium,normal
+S014,Fractions,56,546,398,3,1,5,6,confident,4,23,69,-13,reading_mistake,text,73,66,90,85,78,0,medium,slow
+S078,Photosynthesis,81,17,351,2,1,3,8,confident,3,68,76,5,careless_mistake,text,81,34,64,47,79,0,hard,fast
+S058,Fractions,49,137,317,1,5,5,5,need_revision,3,24,50,-1,reading_mistake,step_by_step,64,73,70,73,68,0,easy,slow
+S082,Fractions,41,112,405,1,2,6,4,confident,4,35,44,-3,repeated_topic_weakness,practice,76,42,55,81,77,0,easy,slow
+S066,Algebra,100,339,403,1,0,0,10,want_challenge,4,100,98,2,calculation_mistake,step_by_step,52,98,58,50,64,0,hard,fast
+S057,Fractions,58,75,357,3,1,4,6,confident,2,44,53,5,calculation_mistake,text,72,57,47,77,68,0,medium,slow
+S050,Essay Writing,60,729,439,1,1,4,7,confident,3,51,58,2,calculation_mistake,practice,83,76,68,94,57,0,medium,normal
+S048,Geometry,60,440,286,2,0,5,6,confused,2,69,73,-13,concept_confusion,step_by_step,64,46,65,62,52,1,medium,normal
+S047,Photosynthesis,59,1284,243,1,0,4,6,confident,3,58,57,2,reading_mistake,audio,85,45,64,63,70,0,medium,slow
+S015,Fractions,90,207,228,1,1,1,10,need_revision,1,65,91,-1,careless_mistake,step_by_step,65,78,97,86,53,0,hard,fast
+S050,Essay Writing,59,29,226,2,1,7,7,confident,2,41,61,-2,reading_mistake,practice,100,59,62,50,95,0,medium,normal
+S079,Geometry,47,553,377,2,2,6,5,stressed,3,41,32,15,careless_mistake,audio,56,61,59,62,73,1,easy,normal
+S058,Algebra,75,212,193,1,2,2,8,want_challenge,2,85,81,-6,careless_mistake,visual,59,60,77,74,100,0,medium,normal
+S088,Geometry,58,31,205,2,1,4,6,stressed,3,64,44,14,repeated_topic_weakness,visual,64,41,91,31,61,1,medium,slow
+S039,Algebra,98,109,282,1,1,0,10,need_revision,1,77,100,-2,repeated_topic_weakness,audio,60,77,87,46,58,0,hard,fast
+S066,Algebra,51,80,139,1,2,5,5,confident,3,58,61,-10,calculation_mistake,audio,76,42,70,76,68,0,medium,normal
+S064,Fractions,66,220,420,1,0,4,7,confused,4,36,51,15,time_pressure,text,91,46,34,60,75,1,medium,normal
+S071,Algebra,30,412,301,1,2,7,3,stressed,3,38,34,-4,concept_confusion,visual,70,99,63,91,76,1,easy,slow
+S068,Photosynthesis,45,106,329,1,4,6,8,need_revision,3,69,37,8,time_pressure,visual,64,100,70,48,81,1,easy,slow
+S083,Fractions,62,177,308,1,0,5,8,confused,2,44,56,6,repeated_topic_weakness,step_by_step,75,80,61,39,77,1,medium,normal
+S100,Essay Writing,48,476,301,5,3,5,5,stressed,2,66,39,9,calculation_mistake,audio,69,100,91,62,73,1,easy,normal
+S016,Essay Writing,77,244,539,2,1,2,8,confident,3,82,77,0,calculation_mistake,audio,28,74,75,58,49,1,medium,normal
+S091,Algebra,50,83,458,1,1,5,6,confident,2,29,36,14,time_pressure,text,76,38,100,71,84,0,medium,normal
+S033,Algebra,74,168,254,1,0,3,7,stressed,2,69,82,-8,time_pressure,text,83,56,30,66,85,1,medium,normal
+S039,Essay Writing,90,1356,386,1,0,1,10,confused,1,77,85,5,time_pressure,audio,60,87,51,43,71,0,hard,fast
+S022,Essay Writing,78,304,285,2,0,4,8,need_revision,5,74,65,13,time_pressure,text,80,40,75,44,100,0,medium,normal
+S073,Fractions,66,68,291,1,2,3,7,need_revision,5,94,68,-2,concept_confusion,visual,87,62,54,100,90,0,medium,normal
+S006,Essay Writing,40,116,323,1,3,6,5,confident,3,49,43,-3,calculation_mistake,step_by_step,65,52,66,79,82,1,easy,normal
+S064,Essay Writing,49,833,101,4,2,6,5,confident,2,89,59,-10,reading_mistake,practice,86,67,56,41,79,0,easy,normal
+S088,Photosynthesis,48,346,272,1,4,5,6,confident,2,31,52,-4,concept_confusion,visual,61,39,28,32,53,1,easy,slow
+S062,Photosynthesis,78,74,300,1,0,2,8,confident,4,92,77,1,time_pressure,audio,72,81,21,90,86,0,medium,normal
+S041,Geometry,55,38,354,2,4,4,6,need_revision,5,72,62,-7,reading_mistake,practice,81,86,86,66,90,1,medium,slow
+S066,Essay Writing,68,213,283,1,0,3,7,confident,2,83,70,-2,calculation_mistake,practice,52,57,71,46,66,0,medium,normal
+S016,Geometry,46,508,411,2,3,5,5,confused,3,12,42,4,calculation_mistake,visual,100,57,42,34,74,1,easy,slow
+S032,Algebra,38,163,324,2,2,6,4,need_revision,2,19,33,5,time_pressure,text,92,46,64,74,100,1,easy,normal
+S098,Algebra,81,55,215,1,1,2,9,confused,2,99,81,0,time_pressure,practice,65,80,43,78,65,0,hard,fast
+S003,Fractions,94,177,198,3,0,2,9,want_challenge,2,75,94,0,time_pressure,practice,79,65,100,72,94,0,hard,fast
+S028,Essay Writing,85,667,436,3,1,2,10,confused,4,57,96,-11,concept_confusion,text,56,21,73,76,66,1,hard,fast
+S084,Photosynthesis,70,619,178,2,0,4,7,confident,1,41,79,-9,concept_confusion,visual,45,76,78,71,65,1,medium,normal
+S034,Geometry,57,265,212,1,1,5,6,need_revision,2,69,66,-9,reading_mistake,visual,100,61,99,100,43,0,medium,slow
+S007,Essay Writing,69,10,395,2,3,3,8,stressed,5,48,59,10,reading_mistake,step_by_step,100,74,72,59,79,1,medium,normal
+S058,Essay Writing,80,132,345,1,2,2,9,confident,4,91,81,-1,time_pressure,step_by_step,71,39,69,40,100,0,hard,fast
+S013,Photosynthesis,58,10,296,2,1,4,6,confused,1,37,46,12,reading_mistake,step_by_step,61,79,62,38,65,0,medium,normal
+S026,Essay Writing,75,280,302,2,1,2,8,confused,3,71,83,-8,time_pressure,visual,80,68,65,88,78,1,medium,normal
+S018,Geometry,55,389,230,2,0,6,6,need_revision,2,57,69,-14,time_pressure,practice,93,53,49,59,86,0,medium,normal
+S078,Essay Writing,67,292,272,2,2,4,8,confident,2,37,52,15,time_pressure,text,52,88,45,48,52,0,medium,normal
+S021,Photosynthesis,70,132,354,1,1,3,8,want_challenge,4,76,74,-4,repeated_topic_weakness,text,74,73,61,100,70,0,medium,normal
+S076,Geometry,7,174,308,2,2,9,1,confused,3,29,8,-1,time_pressure,step_by_step,53,78,58,49,72,1,easy,slow
+S061,Fractions,80,228,129,2,0,2,9,confused,4,85,77,3,repeated_topic_weakness,visual,80,63,56,100,75,0,hard,fast
+S093,Fractions,33,117,482,1,3,8,4,stressed,2,24,35,-2,reading_mistake,step_by_step,55,93,72,42,100,1,easy,slow
+S022,Essay Writing,72,123,317,1,1,4,8,stressed,3,85,66,6,time_pressure,practice,66,33,58,19,49,1,medium,normal
+S088,Algebra,100,220,143,1,0,1,10,confident,2,100,100,0,repeated_topic_weakness,visual,75,68,88,43,86,0,hard,fast
+S057,Geometry,54,84,336,1,1,6,6,confused,3,31,49,5,careless_mistake,audio,44,72,53,52,89,1,medium,slow
+S095,Fractions,45,247,200,2,3,6,4,need_revision,4,40,30,15,time_pressure,audio,71,75,78,65,66,1,easy,slow
+S068,Photosynthesis,58,370,328,2,1,4,7,confident,3,53,59,-1,calculation_mistake,practice,94,87,72,60,64,0,medium,slow
+S070,Geometry,63,10,414,1,1,5,6,stressed,2,77,63,0,repeated_topic_weakness,text,91,64,68,59,62,1,medium,normal
+S025,Algebra,69,1481,139,1,0,3,7,confident,2,72,62,7,reading_mistake,audio,93,39,45,54,65,0,medium,normal
+S039,Geometry,83,708,233,1,1,2,9,need_revision,2,64,75,8,repeated_topic_weakness,practice,85,26,60,38,100,0,hard,fast
+S041,Photosynthesis,87,96,436,3,0,1,9,confident,2,70,99,-12,repeated_topic_weakness,text,87,59,67,61,56,0,hard,fast
+S037,Fractions,61,170,150,2,0,4,7,stressed,1,59,49,12,time_pressure,practice,84,61,90,67,81,1,medium,normal
+S051,Geometry,81,80,302,1,1,3,8,want_challenge,2,78,84,-3,calculation_mistake,text,81,87,34,33,37,0,hard,fast
+S092,Fractions,51,77,316,4,0,6,6,confident,1,55,48,3,careless_mistake,text,47,38,55,46,94,1,medium,normal
+S026,Essay Writing,54,122,179,2,1,5,5,confident,2,55,68,-14,time_pressure,text,54,48,41,60,52,0,medium,normal
+S014,Essay Writing,83,797,290,1,2,2,8,need_revision,2,73,95,-12,calculation_mistake,audio,96,72,51,84,82,0,hard,fast
+S068,Algebra,52,142,176,3,0,7,7,stressed,4,34,45,7,concept_confusion,visual,100,79,92,47,65,1,medium,slow
+S013,Algebra,44,934,279,2,4,8,4,confident,4,49,58,-14,time_pressure,audio,79,44,71,55,68,1,easy,slow
+S062,Algebra,47,705,190,1,3,5,8,need_revision,4,56,44,3,reading_mistake,text,75,52,100,68,50,1,easy,normal
+S099,Fractions,62,237,234,1,2,4,6,stressed,2,74,69,-7,calculation_mistake,step_by_step,89,52,53,82,57,1,medium,normal
+S005,Algebra,74,679,194,2,1,3,8,confused,1,89,81,-7,calculation_mistake,visual,60,45,51,75,60,0,medium,normal
+S051,Photosynthesis,47,260,238,2,2,5,6,confident,3,66,44,3,repeated_topic_weakness,text,73,53,80,33,86,0,easy,normal
+S002,Geometry,62,746,258,1,0,5,7,stressed,3,56,73,-11,concept_confusion,text,76,61,85,59,81,1,medium,normal
+S083,Essay Writing,44,536,297,1,6,7,4,confused,2,36,55,-11,calculation_mistake,step_by_step,70,76,61,60,61,1,easy,normal
+S043,Algebra,34,234,367,1,2,8,4,need_revision,5,32,23,11,repeated_topic_weakness,text,66,68,59,62,76,1,easy,normal
+S002,Geometry,61,10,289,1,1,6,6,need_revision,3,61,49,12,time_pressure,audio,56,66,64,91,76,0,medium,normal
+S023,Essay Writing,92,25,170,3,1,2,10,want_challenge,2,86,96,-4,careless_mistake,practice,100,62,55,76,74,0,hard,fast
+S012,Photosynthesis,48,159,301,2,2,6,5,stressed,4,34,41,7,calculation_mistake,audio,100,71,100,35,86,1,easy,normal
+S001,Geometry,85,16,286,1,0,2,10,confused,4,79,95,-10,careless_mistake,text,74,62,71,14,55,0,hard,fast
+S093,Essay Writing,56,199,220,2,0,4,6,confident,3,67,56,0,repeated_topic_weakness,text,73,86,72,50,55,0,medium,normal
+S008,Fractions,58,219,242,2,1,4,6,confused,2,40,46,12,calculation_mistake,practice,70,68,65,90,35,1,medium,slow
+S089,Fractions,67,252,412,1,1,4,8,stressed,3,55,65,2,reading_mistake,text,54,97,66,39,82,1,medium,normal
+S029,Algebra,72,53,336,1,1,3,7,confused,3,47,62,10,careless_mistake,step_by_step,62,52,89,83,57,1,medium,normal
+S090,Essay Writing,25,727,109,1,2,8,2,want_challenge,3,16,30,-5,time_pressure,audio,74,53,90,98,51,1,easy,normal
+S088,Essay Writing,75,210,123,3,0,2,8,want_challenge,3,40,61,14,concept_confusion,step_by_step,65,70,88,42,48,0,medium,normal
+S058,Essay Writing,54,88,321,2,1,5,6,need_revision,3,59,40,14,concept_confusion,step_by_step,82,58,69,27,98,0,medium,normal
+S008,Essay Writing,61,21,242,1,1,6,6,want_challenge,2,73,56,5,calculation_mistake,step_by_step,44,57,76,57,99,1,medium,normal
+S022,Geometry,30,232,309,2,3,7,3,want_challenge,1,32,18,12,careless_mistake,visual,50,70,84,80,58,1,easy,slow
+S012,Essay Writing,47,369,176,2,4,6,5,confused,2,21,48,-1,concept_confusion,practice,56,61,48,91,44,1,easy,normal
+S072,Photosynthesis,62,57,215,3,0,5,6,stressed,2,62,76,-14,reading_mistake,visual,97,100,80,71,53,1,medium,normal
+S001,Algebra,86,295,289,1,1,1,9,stressed,1,83,83,3,concept_confusion,practice,53,74,54,100,55,0,hard,fast
+S008,Fractions,46,76,243,2,3,5,5,want_challenge,2,42,33,13,careless_mistake,visual,50,73,59,34,75,1,easy,normal
+S099,Algebra,72,220,273,4,0,4,8,need_revision,4,71,85,-13,repeated_topic_weakness,practice,100,32,55,57,44,0,medium,normal
+S048,Photosynthesis,79,137,277,1,2,2,9,confused,3,95,77,2,careless_mistake,practice,85,68,67,37,70,1,medium,normal
+S085,Essay Writing,63,25,202,6,0,4,6,confident,3,64,64,-1,reading_mistake,visual,100,72,43,85,72,0,medium,normal
+S023,Essay Writing,77,160,308,1,4,2,9,confused,2,65,71,6,calculation_mistake,audio,56,81,83,85,80,1,medium,normal
+S039,Photosynthesis,82,96,275,1,1,2,8,stressed,4,73,86,-4,time_pressure,practice,69,67,72,73,64,0,hard,fast
+S032,Photosynthesis,56,413,444,3,2,4,6,confident,3,73,45,11,reading_mistake,audio,43,55,100,77,79,0,medium,normal
+S005,Photosynthesis,80,327,333,3,1,2,8,stressed,2,86,94,-14,concept_confusion,audio,57,100,60,44,90,0,hard,fast
+S005,Photosynthesis,83,366,418,1,0,3,8,stressed,3,85,75,8,repeated_topic_weakness,visual,88,35,71,35,65,0,hard,fast
+S057,Algebra,77,332,346,1,0,2,8,confused,1,73,88,-11,concept_confusion,audio,86,62,57,47,74,1,medium,normal
+S038,Algebra,47,392,428,2,3,5,5,need_revision,4,48,36,11,repeated_topic_weakness,step_by_step,63,62,86,29,40,1,easy,slow
+S031,Geometry,53,173,227,2,0,5,5,want_challenge,2,65,41,12,repeated_topic_weakness,step_by_step,86,66,53,63,67,0,medium,normal
+S053,Geometry,79,106,349,1,1,4,9,confident,3,83,73,6,time_pressure,step_by_step,70,74,57,100,72,0,medium,normal
+S095,Algebra,59,412,187,2,1,4,8,stressed,1,42,63,-4,careless_mistake,step_by_step,96,48,70,61,62,1,medium,slow
+S083,Photosynthesis,84,124,364,1,1,2,8,need_revision,1,76,78,6,reading_mistake,practice,75,59,79,61,67,0,hard,fast
+S039,Photosynthesis,47,863,464,1,2,6,6,confident,5,56,45,2,time_pressure,practice,47,69,46,65,65,1,easy,normal
+S039,Algebra,53,10,292,2,1,6,5,need_revision,3,54,55,-2,concept_confusion,step_by_step,67,62,49,64,92,0,medium,slow
+S054,Essay Writing,49,373,155,2,3,6,5,confused,3,65,36,13,careless_mistake,audio,58,74,62,31,83,1,easy,normal
+S058,Geometry,37,154,389,2,3,6,4,confident,3,44,48,-11,repeated_topic_weakness,audio,54,42,79,68,67,1,easy,slow
+S087,Essay Writing,46,128,132,4,3,6,7,stressed,3,32,50,-4,concept_confusion,audio,72,33,57,100,55,1,easy,normal
+S062,Algebra,46,659,452,2,2,5,6,want_challenge,2,65,37,9,reading_mistake,text,44,74,65,85,73,0,easy,normal
+S028,Algebra,43,207,379,2,2,6,4,want_challenge,3,25,45,-2,concept_confusion,practice,60,34,37,61,84,0,easy,normal
+S090,Essay Writing,100,146,358,1,0,0,10,need_revision,2,100,95,5,careless_mistake,audio,69,73,89,65,64,0,hard,fast
+S100,Geometry,61,369,396,2,1,5,6,confused,2,59,61,0,time_pressure,text,65,50,90,80,69,1,medium,normal
+S047,Essay Writing,85,15,63,1,0,2,8,want_challenge,4,69,81,4,careless_mistake,visual,47,37,48,65,58,0,hard,fast
+S093,Photosynthesis,69,29,209,1,1,3,9,need_revision,4,98,62,7,reading_mistake,audio,86,52,43,66,55,0,medium,normal
+S048,Geometry,70,98,314,1,1,4,8,confused,2,81,74,-4,time_pressure,audio,87,92,60,53,66,1,medium,normal
+S003,Geometry,78,158,346,1,0,2,8,stressed,4,70,70,8,time_pressure,step_by_step,86,69,84,44,56,1,medium,normal
+S038,Algebra,50,95,265,1,2,6,5,confident,3,61,58,-8,calculation_mistake,practice,75,47,68,51,65,0,medium,normal
+S064,Essay Writing,87,221,138,1,1,1,9,stressed,2,69,90,-3,repeated_topic_weakness,text,100,83,58,62,46,1,hard,fast
+S063,Photosynthesis,54,308,412,1,0,6,5,confused,2,67,50,4,repeated_topic_weakness,text,68,46,70,51,60,1,medium,slow
+S024,Essay Writing,81,191,249,1,3,2,8,want_challenge,4,60,72,9,concept_confusion,step_by_step,92,32,79,18,66,1,hard,fast
+S010,Fractions,100,171,145,1,2,1,10,need_revision,1,97,100,0,careless_mistake,audio,84,76,62,79,33,0,hard,fast
+S030,Fractions,82,569,225,1,1,2,9,need_revision,2,74,86,-4,concept_confusion,audio,76,49,62,68,89,0,hard,fast
+S048,Fractions,64,406,157,2,2,4,7,stressed,3,44,66,-2,repeated_topic_weakness,step_by_step,55,53,79,50,70,0,medium,normal
+S085,Photosynthesis,54,251,193,2,0,6,5,confident,5,50,67,-13,time_pressure,step_by_step,89,34,94,69,66,0,medium,slow
+S002,Fractions,42,279,217,2,4,7,4,confused,2,26,35,7,reading_mistake,step_by_step,100,84,52,45,80,1,easy,slow
+S023,Fractions,70,1211,264,1,1,3,7,want_challenge,2,48,83,-13,time_pressure,audio,72,14,71,54,84,0,medium,normal
+S031,Algebra,43,192,238,1,3,6,4,stressed,2,23,45,-2,reading_mistake,text,65,41,57,89,69,1,easy,slow
+S052,Photosynthesis,78,623,221,1,4,2,8,stressed,4,62,87,-9,repeated_topic_weakness,audio,60,42,58,74,100,1,medium,normal
+S011,Fractions,60,478,159,1,2,5,7,confident,2,54,66,-6,careless_mistake,practice,48,87,59,62,89,1,medium,normal
+S008,Fractions,55,487,209,1,1,4,6,need_revision,3,38,69,-14,concept_confusion,practice,57,71,51,86,46,0,medium,slow
+S083,Geometry,44,84,429,1,3,7,4,stressed,2,42,41,3,concept_confusion,step_by_step,86,72,58,65,74,1,easy,slow
+S035,Fractions,78,683,94,1,2,4,8,want_challenge,1,100,84,-6,repeated_topic_weakness,text,12,49,55,41,43,0,medium,normal
+S073,Fractions,0,144,419,1,3,10,2,confident,1,0,14,-14,reading_mistake,visual,81,19,46,73,88,1,easy,normal
+S097,Photosynthesis,85,245,272,1,1,2,8,want_challenge,1,100,95,-10,reading_mistake,audio,37,64,90,57,50,0,hard,fast
+S050,Essay Writing,100,531,253,1,2,0,10,confident,2,100,100,0,repeated_topic_weakness,audio,99,78,69,61,67,0,hard,fast
+S089,Fractions,87,19,494,1,1,1,9,confused,2,80,84,3,reading_mistake,visual,50,69,45,51,79,0,hard,fast
+S010,Geometry,73,121,299,1,1,5,8,stressed,4,70,62,11,time_pressure,step_by_step,85,59,86,100,48,1,medium,normal
+S100,Geometry,60,10,306,1,1,4,6,confident,1,82,47,13,reading_mistake,practice,78,49,18,74,73,0,medium,normal
+S063,Algebra,92,93,260,1,1,2,9,confused,1,90,89,3,careless_mistake,practice,62,59,43,95,57,0,hard,fast
+S049,Fractions,51,318,175,3,0,6,5,need_revision,2,42,44,7,reading_mistake,audio,100,64,72,68,64,0,medium,normal
+S011,Geometry,78,347,220,2,1,2,9,confident,3,85,92,-14,repeated_topic_weakness,audio,74,46,72,62,84,0,medium,normal
+S095,Photosynthesis,80,28,142,1,1,2,9,confident,3,61,73,7,concept_confusion,visual,74,63,86,73,72,0,hard,fast
+S001,Geometry,90,463,408,1,0,4,10,confused,2,73,95,-5,reading_mistake,visual,68,75,61,83,52,0,hard,fast
+S058,Essay Writing,59,166,258,2,3,4,7,stressed,3,46,47,12,careless_mistake,visual,61,80,75,25,84,1,medium,normal
+S077,Essay Writing,75,560,352,1,2,2,8,need_revision,3,77,69,6,careless_mistake,visual,98,69,57,67,74,0,medium,normal
+S038,Photosynthesis,79,640,593,3,1,2,8,confused,1,64,68,11,concept_confusion,step_by_step,80,40,51,50,56,0,medium,normal
+S032,Essay Writing,57,448,330,3,0,5,7,confused,1,31,56,1,repeated_topic_weakness,practice,100,47,64,60,36,1,medium,slow
+S039,Geometry,41,398,372,2,4,6,6,confused,1,59,45,-4,concept_confusion,audio,70,68,74,34,57,1,easy,slow
+S010,Geometry,41,132,52,5,5,6,4,confident,5,68,42,-1,calculation_mistake,practice,28,24,70,50,60,1,easy,normal
+S018,Geometry,53,159,344,2,1,5,6,confident,1,46,57,-4,careless_mistake,text,68,58,65,100,82,0,medium,slow
+S043,Photosynthesis,100,48,299,1,3,1,10,confident,3,100,94,6,repeated_topic_weakness,step_by_step,45,76,65,53,76,1,hard,fast
+S026,Photosynthesis,67,267,552,2,0,3,7,confident,2,67,81,-14,careless_mistake,text,100,71,40,96,70,0,medium,normal
+S038,Photosynthesis,75,562,371,1,0,2,10,want_challenge,4,89,89,-14,calculation_mistake,text,78,73,38,50,49,0,medium,normal
+S049,Geometry,47,108,213,2,4,5,5,need_revision,3,24,61,-14,careless_mistake,text,100,75,47,61,64,1,easy,normal
+S076,Essay Writing,62,804,460,2,2,4,6,confident,2,85,53,9,time_pressure,visual,88,61,73,50,64,0,medium,normal
+S094,Photosynthesis,70,152,247,1,1,4,8,want_challenge,2,59,64,6,calculation_mistake,practice,93,48,84,55,51,0,medium,normal
+S038,Fractions,58,37,296,1,0,4,7,need_revision,1,77,62,-4,careless_mistake,practice,49,54,43,60,93,1,medium,slow
+S031,Geometry,62,89,324,2,1,4,6,stressed,2,78,60,2,repeated_topic_weakness,practice,63,30,82,63,66,1,medium,normal
+S010,Photosynthesis,56,81,107,2,2,4,6,want_challenge,4,57,61,-5,careless_mistake,step_by_step,50,24,66,96,100,0,medium,slow
+S069,Essay Writing,66,758,309,1,1,5,7,want_challenge,2,58,59,7,repeated_topic_weakness,practice,69,57,81,42,73,0,medium,normal
+S070,Fractions,33,591,272,5,3,8,3,need_revision,1,36,32,1,reading_mistake,step_by_step,47,30,73,32,62,1,easy,normal
+S099,Algebra,63,115,358,2,0,4,8,stressed,3,74,70,-7,reading_mistake,audio,34,19,71,50,55,1,medium,normal
+S083,Photosynthesis,64,227,289,2,0,4,6,want_challenge,4,73,60,4,reading_mistake,practice,58,60,87,67,74,0,medium,normal
+S014,Fractions,42,320,294,1,2,7,5,confident,3,38,28,14,calculation_mistake,step_by_step,87,53,50,47,82,0,easy,normal
+S058,Geometry,76,1304,249,1,1,3,9,confused,1,80,70,6,repeated_topic_weakness,step_by_step,61,73,9,81,70,1,medium,normal
+S020,Geometry,59,324,453,2,0,4,6,want_challenge,3,57,52,7,careless_mistake,visual,54,80,92,39,92,0,medium,slow
+S054,Fractions,82,445,220,1,1,3,8,confident,5,72,95,-13,repeated_topic_weakness,audio,100,79,54,84,61,0,hard,fast
+S044,Photosynthesis,66,12,382,2,1,3,9,need_revision,1,75,64,2,time_pressure,practice,74,34,82,59,86,0,medium,normal
+S045,Photosynthesis,68,144,106,1,2,4,8,confident,2,72,69,-1,repeated_topic_weakness,practice,88,88,28,25,96,0,medium,normal
+S041,Fractions,46,251,28,3,2,7,5,confident,3,47,44,2,repeated_topic_weakness,visual,75,68,75,62,32,0,easy,normal
+S044,Fractions,31,260,276,1,2,9,3,stressed,4,19,31,0,calculation_mistake,audio,57,60,68,67,81,1,easy,normal
+S043,Essay Writing,78,413,465,3,1,2,8,confused,2,90,85,-7,careless_mistake,audio,67,91,67,35,71,1,medium,normal
+S081,Algebra,60,129,275,2,1,5,6,confident,3,53,68,-8,repeated_topic_weakness,practice,73,60,63,79,81,0,medium,normal
+S051,Fractions,70,149,290,3,2,4,8,need_revision,3,100,82,-12,calculation_mistake,practice,62,100,81,37,97,0,medium,normal
+S076,Photosynthesis,50,538,301,2,2,5,6,confused,1,38,36,14,repeated_topic_weakness,audio,74,74,52,85,66,1,medium,normal
+S074,Fractions,70,94,200,1,0,3,7,need_revision,2,80,62,8,time_pressure,audio,57,50,56,70,55,0,medium,normal
+S047,Geometry,69,77,298,1,3,4,7,confident,3,88,69,0,concept_confusion,text,84,96,63,72,61,1,medium,normal
+S063,Essay Writing,100,810,300,2,2,0,10,want_challenge,2,100,100,0,reading_mistake,step_by_step,29,75,51,70,100,0,hard,fast
+S015,Geometry,34,569,220,2,3,7,3,confused,3,28,41,-7,careless_mistake,step_by_step,100,53,63,59,69,1,easy,slow
+S079,Essay Writing,46,401,424,3,4,5,5,confident,1,47,45,1,calculation_mistake,text,61,80,50,37,58,1,easy,slow
+S015,Algebra,74,41,240,1,2,3,7,confused,2,67,72,2,calculation_mistake,step_by_step,83,38,49,74,70,1,medium,normal
+S077,Algebra,67,97,430,4,1,5,7,stressed,3,96,56,11,careless_mistake,audio,57,64,71,59,43,1,medium,normal
+S069,Algebra,65,413,421,1,0,4,6,stressed,2,45,60,5,careless_mistake,text,87,62,61,100,50,1,medium,normal
+S041,Photosynthesis,50,287,329,2,2,6,5,stressed,2,51,59,-9,reading_mistake,visual,88,88,48,66,51,1,medium,normal
+S050,Essay Writing,44,405,430,3,2,6,5,confused,1,18,39,5,careless_mistake,practice,86,53,75,69,73,1,easy,slow
+S091,Photosynthesis,60,348,428,1,0,4,6,confused,3,68,72,-12,concept_confusion,step_by_step,81,47,76,57,67,1,medium,normal
+S098,Algebra,49,677,466,1,2,5,5,confident,3,15,53,-4,reading_mistake,audio,73,64,40,85,72,0,easy,slow
+S022,Photosynthesis,50,381,324,1,2,5,5,stressed,2,55,51,-1,careless_mistake,step_by_step,62,54,53,62,61,1,medium,normal
+S035,Essay Writing,70,16,247,1,0,4,8,need_revision,3,50,71,-1,reading_mistake,step_by_step,56,61,71,56,90,0,medium,normal
+S097,Fractions,40,2328,351,2,2,6,4,need_revision,1,34,54,-14,careless_mistake,step_by_step,73,47,64,36,52,0,easy,slow
+S028,Photosynthesis,100,47,213,1,1,0,10,confident,4,83,100,0,repeated_topic_weakness,audio,30,21,31,54,84,1,hard,fast
+S058,Geometry,84,99,250,1,0,2,8,confident,3,66,69,15,concept_confusion,practice,100,48,58,53,60,0,hard,fast
+S016,Algebra,89,688,346,1,0,1,9,confident,2,89,78,11,repeated_topic_weakness,step_by_step,77,52,100,91,100,0,hard,fast
+S091,Essay Writing,51,29,362,1,0,5,5,stressed,3,44,52,-1,calculation_mistake,step_by_step,54,36,74,95,66,1,medium,normal
+S027,Fractions,17,166,367,4,4,10,3,stressed,2,34,20,-3,time_pressure,text,100,79,51,63,84,1,easy,slow
+S038,Essay Writing,51,52,288,2,1,6,5,confident,2,30,45,6,time_pressure,visual,86,74,98,66,98,0,medium,normal
+S097,Photosynthesis,34,340,184,3,3,7,3,want_challenge,1,17,36,-2,reading_mistake,audio,60,46,30,40,59,1,easy,normal
+S032,Algebra,62,214,454,1,0,5,6,need_revision,2,62,70,-8,calculation_mistake,practice,87,83,78,59,90,0,medium,normal
+S063,Algebra,78,360,217,1,1,4,10,stressed,2,76,78,0,reading_mistake,practice,66,74,92,65,47,1,medium,normal
+S010,Fractions,56,1562,187,2,3,5,7,confused,4,37,63,-7,repeated_topic_weakness,text,70,63,94,33,75,1,medium,slow
+S059,Photosynthesis,48,136,249,1,3,6,6,confident,1,53,59,-11,concept_confusion,visual,93,26,97,24,90,1,easy,slow
+S082,Geometry,27,267,407,2,2,7,3,want_challenge,4,0,24,3,time_pressure,practice,64,64,90,24,63,1,easy,normal
+S055,Algebra,47,591,148,3,3,5,5,confused,3,72,39,8,reading_mistake,text,58,48,100,61,70,1,easy,slow
+S044,Fractions,82,1012,184,1,1,2,8,confident,2,84,78,4,repeated_topic_weakness,practice,56,55,95,79,83,0,hard,fast
+S021,Photosynthesis,55,61,354,1,0,6,6,confused,4,68,44,11,careless_mistake,audio,42,92,56,89,87,0,medium,slow
+S021,Geometry,7,584,175,4,3,10,2,confident,4,15,18,-11,reading_mistake,text,73,71,40,70,60,1,easy,normal
+S007,Photosynthesis,44,214,249,3,4,6,4,stressed,3,46,56,-12,repeated_topic_weakness,audio,75,46,59,61,77,1,easy,normal
+S001,Algebra,94,11,484,2,0,1,10,confused,2,84,81,13,calculation_mistake,step_by_step,34,74,92,60,74,0,hard,fast
+S090,Geometry,81,944,227,2,0,2,9,need_revision,1,90,84,-3,careless_mistake,audio,32,87,81,40,81,0,hard,fast
+S012,Fractions,68,15,341,1,0,5,8,confident,2,76,61,7,reading_mistake,text,80,84,29,100,70,0,medium,normal
+S018,Photosynthesis,86,196,321,1,1,1,10,need_revision,1,81,83,3,calculation_mistake,audio,89,44,78,41,51,0,hard,fast
+S073,Fractions,70,90,31,2,3,4,7,stressed,2,73,70,0,calculation_mistake,practice,43,51,69,71,82,1,medium,normal
+S053,Essay Writing,55,379,328,3,0,4,6,stressed,3,56,45,10,calculation_mistake,visual,92,97,63,59,75,1,medium,normal
+S097,Fractions,54,191,254,2,1,5,5,stressed,2,87,65,-11,careless_mistake,text,77,57,47,55,65,0,medium,slow

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "A001",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "title": "Basic Linear Equations",
+    "description": "Solve 2x + 5 = 15 and explain each step.",
+    "type": "Practice"
+  },
+  {
+    "id": "A002",
+    "subject": "Mathematics",
+    "topic": "Fractions",
+    "title": "Adding Unlike Fractions",
+    "description": "Solve 1/2 + 1/4 and explain the concept of LCM.",
+    "type": "Lesson"
+  },
+  {
+    "id": "A003",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "title": "Pythagorean Theorem",
+    "description": "In a right triangle with legs 3 and 4, find the hypotenuse and explain the logic.",
+    "type": "Practice"
+  },
+  {
+    "id": "A004",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "title": "Introduction to Derivatives",
+    "description": "What does a derivative represent in terms of a graph? Explain the concept of instantaneous rate of change.",
+    "type": "Lesson"
+  },
+  {
+    "id": "A005",
+    "subject": "Mathematics",
+    "topic": "Statistics",
+    "title": "Mean, Median, and Mode",
+    "description": "Given the set {2, 4, 4, 6, 8, 10}, calculate the mean, median, and mode.",
+    "type": "Practice"
+  }
+]

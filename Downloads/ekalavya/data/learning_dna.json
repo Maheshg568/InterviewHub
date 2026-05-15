@@ -1,0 +1,63 @@
+[
+  {
+    "student_id": "S001",
+    "concept_strength": 85,
+    "memory_score": 78,
+    "speed_score": 65,
+    "accuracy_score": 90,
+    "confidence_score": 60,
+    "learning_style": "Visual",
+    "strong_topics": [
+      "Geometry",
+      "Ratios"
+    ],
+    "weak_topics": [
+      "Fractions",
+      "Word Problems"
+    ],
+    "pace": "Slow",
+    "exam_readiness": 75,
+    "last_quiz_score": 0,
+    "topics": {
+      "general": {
+        "strength": 35
+      }
+    }
+  },
+  {
+    "student_id": "S002",
+    "concept_strength": 92,
+    "memory_score": 88,
+    "speed_score": 85,
+    "accuracy_score": 95,
+    "confidence_score": 85,
+    "learning_style": "Practice-based",
+    "strong_topics": [
+      "Algebra",
+      "Statistics"
+    ],
+    "weak_topics": [
+      "Calculus"
+    ],
+    "pace": "Normal",
+    "exam_readiness": 90
+  },
+  {
+    "student_id": "S003",
+    "concept_strength": 70,
+    "memory_score": 65,
+    "speed_score": 95,
+    "accuracy_score": 60,
+    "confidence_score": 90,
+    "learning_style": "Challenge-based",
+    "strong_topics": [
+      "Sports Physics"
+    ],
+    "weak_topics": [
+      "Organic Chemistry",
+      "Biology"
+    ],
+    "pace": "Fast",
+    "exam_readiness": 65
+  }
+]

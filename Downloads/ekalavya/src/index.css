@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+  --color-obsidian: #f3f6fb;
+  --color-secondary-dark: #111827;
+}
+
+@layer base {
+  body {
+    @apply min-h-screen bg-gradient-to-br from-[#EEF2FF] via-[#F8FAFC] to-[#E0F2FE] text-slate-900 font-sans selection:bg-indigo-200 antialiased;
+    scroll-behavior: smooth;
+  }
+
+  /* Custom Scrollbar */
+  ::-webkit-scrollbar {
+    width: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    @apply bg-transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    @apply bg-indigo-200 rounded-full hover:bg-indigo-300 transition-colors;
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply bg-white/75 backdrop-blur-2xl border border-white/70 shadow-xl shadow-indigo-500/10 rounded-[2rem];
+  }
+  
+  .glass-input {
+    @apply bg-white/90 border border-slate-200 rounded-2xl focus:ring-2 focus:ring-indigo-200 focus:border-indigo-500 transition-all outline-none;
+  }
+
+  .premium-button {
+    @apply bg-indigo-600 hover:bg-indigo-500 text-white rounded-2xl px-5 py-3 font-semibold shadow-lg shadow-indigo-500/20 transition-all flex items-center justify-center gap-2;
+  }
+
+  /* Top proctor bar */
+  .topbar {
+    @apply w-full h-16 bg-gradient-to-r from-indigo-600 via-violet-600 to-purple-700 text-white flex items-center px-4 md:px-6 gap-4 shadow-lg shadow-indigo-900/20;
+  }
+
+  .exam-card {
+    @apply bg-white/80 backdrop-blur-xl border border-white/70 rounded-3xl shadow-xl shadow-indigo-500/10 text-slate-900 p-6 md:p-8;
+  }
+
+  .status-label {
+    @apply text-xs uppercase tracking-[0.2em] font-semibold text-slate-500;
+  }
+}
+
+.markdown-content {
+  @apply text-slate-700 leading-relaxed space-y-3;
+}
+
+.markdown-content p {
+  @apply mb-4;
+}
+
+.markdown-content strong {
+  @apply text-slate-900 font-semibold;
+}
+
+.markdown-content code {
+  @apply text-indigo-700 bg-indigo-50 px-1 rounded font-mono text-sm;
+}
+
+.markdown-content h1, .markdown-content h2, .markdown-content h3 {
+  @apply text-slate-900 font-bold tracking-tight mt-6 mb-4;
+}
+
+/* Ambient Ambient Glows */
+.ambient-glow {
+  @apply fixed pointer-events-none -z-10 rounded-full blur-[120px] opacity-40;
+}

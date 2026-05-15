@@ -1,0 +1,13 @@
+{
+  "name": "Ekalavya",
+  "description": "Learning Beyond Limits - Personalized education platform with AI mentoring.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI Learning DNA",
+    "Socratic AI Mentor",
+    "Cognitive Fingerprint",
+    "Proof of Thought Score"
+  ]
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "student_id": "S001",
+    "topic": "Algebra",
+    "proof_of_thought_score": 91,
+    "socratic_engagement": 95,
+    "teaching_verification": 88,
+    "cognitive_depth": 90,
+    "struggle_points": ["Equation balancing"],
+    "mastery_moments": ["Understood isolating variable"],
+    "authenticity_status": "Strong proof of learning"
+  },
+  {
+    "student_id": "S002",
+    "topic": "Statistics",
+    "proof_of_thought_score": 84,
+    "socratic_engagement": 80,
+    "teaching_verification": 85,
+    "cognitive_depth": 85,
+    "struggle_points": ["Standard deviation"],
+    "mastery_moments": ["Interpreting graphs"],
+    "authenticity_status": "Strong proof of learning"
+  }
+]
