@@ -1,0 +1,80 @@
+[
+  {
+    "id": "student-1",
+    "role": "student",
+    "name": "Alice Student",
+    "email": "student@demo.com",
+    "phone": "555-0101",
+    "password": "$2b$10$eKA5CiOyyWnRLvgz/GaJke6C/6aCAQ6ovD7SsvEGg8i6Bfp9hu6ee",
+    "college": "Tech University",
+    "course": "BCA",
+    "resumes": []
+  },
+  {
+    "id": "interviewer-1",
+    "role": "interviewer",
+    "name": "Bob Interviewer",
+    "email": "interviewer@demo.com",
+    "phone": "555-0202",
+    "password": "$2b$10$eKA5CiOyyWnRLvgz/GaJke6C/6aCAQ6ovD7SsvEGg8i6Bfp9hu6ee",
+    "company": "Google",
+    "experience": "Senior Engineer focused on backend and AI interview loops.",
+    "yearsOfExperience": 6
+  },
+  {
+    "id": "interviewer-2",
+    "role": "interviewer",
+    "name": "Carol Recruiter",
+    "email": "carol@demo.com",
+    "phone": "555-0303",
+    "password": "$2b$10$eKA5CiOyyWnRLvgz/GaJke6C/6aCAQ6ovD7SsvEGg8i6Bfp9hu6ee",
+    "company": "Amazon",
+    "experience": "Technical recruiter specializing in behavioral and system design interviews.",
+    "yearsOfExperience": 8
+  },
+  {
+    "id": "admin-1",
+    "role": "admin",
+    "name": "Admin User",
+    "email": "admin@demo.com",
+    "phone": "8095846864",
+    "password": "$2b$10$eKA5CiOyyWnRLvgz/GaJke6C/6aCAQ6ovD7SsvEGg8i6Bfp9hu6ee",
+    "createdAt": "2026-05-12T13:59:02.712Z"
+  },
+  {
+    "id": "1778594800783",
+    "role": "student",
+    "name": "sunny",
+    "email": "sunny@gmail.com",
+    "phone": "8989898899",
+    "password": "$2b$10$L/CETYtFEaHZmu/Hu/ctz.fsT4wIFz9.z0x7UuCLf7qDsItyvbUC.",
+    "college": "global college of management IT and commerce ",
+    "course": "Web development ",
+    "company": "",
+    "experience": "",
+    "resumes": [
+      {
+        "id": "resume-1778595925824",
+        "fileName": "2025mcaqp.pdf",
+        "filePath": "/uploads/1778595925811-2025mcaqp.pdf",
+        "mimeType": "application/pdf",
+        "size": 484227,
+        "uploadedAt": "2026-05-12T14:25:25.824Z",
+        "ratings": []
+      }
+    ]
+  },
+  {
+    "id": "1778594831341",
+    "role": "interviewer",
+    "name": "Maheshgouda patil",
+    "email": "mahi340001@gmail.com",
+    "phone": "09611447573",
+    "password": "$2b$10$CfZS9NpQzYF1NvNtH.tkc.87fPwDp6UzwyJ69N22joNCD81F73pqe",
+    "college": "global college of management IT and commerce ",
+    "course": "",
+    "company": "",
+    "experience": "dghj",
+    "yearsOfExperience": 3
+  }
+]

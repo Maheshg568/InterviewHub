@@ -1,0 +1,276 @@
+[
+  {
+    "id": "booking-1",
+    "studentId": "student-1",
+    "studentName": "Alice Student",
+    "interviewerId": "interviewer-1",
+    "domain": "Data Structures & Algorithms",
+    "preferredSlots": [
+      {
+        "date": "2026-03-20",
+        "time": "10:00-12:00",
+        "label": "2026-03-20 10:00-12:00"
+      }
+    ],
+    "selectedSlot": {
+      "date": "2026-03-20",
+      "time": "10:00-12:00",
+      "label": "2026-03-20 10:00-12:00"
+    },
+    "date": "2026-03-20",
+    "slot": "10:00-12:00",
+    "status": "completed",
+    "createdAt": "2026-05-12T03:59:02.713Z",
+    "approvalDeadlineAt": "2026-05-12T09:59:02.713Z",
+    "updatedAt": "2026-05-12T11:59:02.713Z",
+    "notifications": [],
+    "feedback": {
+      "communication": 8,
+      "technical": 7,
+      "behaviour": 9,
+      "confidence": 8,
+      "resumeScore": 8,
+      "comments": "Good understanding of basic data structures. Need to practice dynamic programming.",
+      "submittedAt": "2026-05-12T11:59:02.713Z"
+    }
+  },
+  {
+    "id": "1778594856580",
+    "studentId": "1778594831341",
+    "studentName": "Maheshgouda patil",
+    "interviewerId": "1778594831341",
+    "domain": "General/HR",
+    "preferredSlots": [
+      {
+        "date": "2026-05-12",
+        "time": "10:00-12:00",
+        "label": "2026-05-12 10:00-12:00"
+      }
+    ],
+    "selectedSlot": {
+      "date": "2026-05-12",
+      "time": "10:00-12:00",
+      "label": "2026-05-12 10:00-12:00"
+    },
+    "date": "2026-05-12",
+    "slot": "10:00-12:00",
+    "status": "completed",
+    "paymentProof": null,
+    "paymentStatus": null,
+    "meetingLink": "https://meet.google.com/uyc-ovts-gow",
+    "approvalDeadlineAt": "2026-05-12T20:07:36.580Z",
+    "interviewerMessage": "Interview marked as successful by interviewer.",
+    "createdAt": "2026-05-12T14:07:36.580Z",
+    "updatedAt": "2026-05-12T14:08:09.557Z",
+    "notifications": [
+      {
+        "id": "notif-1778594856580-interviewer",
+        "recipientRole": "interviewer",
+        "type": "booking_requested",
+        "message": "Maheshgouda patil requested an interview with 1 preferred slot(s).",
+        "createdAt": "2026-05-12T14:07:36.580Z",
+        "read": false
+      },
+      {
+        "id": "notif-1778594875745-1778594856580",
+        "recipientId": "1778594831341",
+        "recipientRole": "student",
+        "type": "meeting_link_uploaded",
+        "title": "Google Meet Link Uploaded",
+        "message": "Your interviewer has uploaded the Google Meet link for your interview.",
+        "meetingLink": "https://meet.google.com/uyc-ovts-gow",
+        "bookingId": "1778594856580",
+        "createdAt": "2026-05-12T14:07:55.745Z",
+        "read": false
+      },
+      {
+        "id": "notif-1778594889557-1778594856580",
+        "recipientId": "1778594831341",
+        "recipientRole": "student",
+        "type": "interview_completed",
+        "title": "Interview Completed",
+        "message": "Your interviewer marked the interview as successful. Please share your feedback.",
+        "bookingId": "1778594856580",
+        "createdAt": "2026-05-12T14:08:09.557Z",
+        "read": false
+      }
+    ]
+  },
+  {
+    "id": "1778595232239",
+    "studentId": "1778594800783",
+    "studentName": "sunny",
+    "interviewerId": "1778594831341",
+    "domain": "General/HR",
+    "preferredSlots": [
+      {
+        "date": "2026-05-12",
+        "time": "10:00-12:00",
+        "label": "2026-05-12 10:00-12:00"
+      }
+    ],
+    "selectedSlot": {
+      "date": "2026-05-12",
+      "time": "10:00-12:00",
+      "label": "2026-05-12 10:00-12:00"
+    },
+    "date": "2026-05-12",
+    "slot": "10:00-12:00",
+    "status": "completed",
+    "paymentProof": null,
+    "paymentStatus": null,
+    "meetingLink": "https://meet.google.com/uyc-ovts-gow",
+    "approvalDeadlineAt": "2026-05-12T20:13:52.239Z",
+    "interviewerMessage": "Interview marked as successful by interviewer.",
+    "createdAt": "2026-05-12T14:13:52.239Z",
+    "updatedAt": "2026-05-12T14:15:18.001Z",
+    "notifications": [
+      {
+        "id": "notif-1778595232239-interviewer",
+        "recipientRole": "interviewer",
+        "type": "booking_requested",
+        "message": "sunny requested an interview with 1 preferred slot(s).",
+        "createdAt": "2026-05-12T14:13:52.239Z",
+        "read": false
+      },
+      {
+        "id": "notif-1778595271146-1778595232239",
+        "recipientId": "1778594800783",
+        "recipientRole": "student",
+        "type": "meeting_link_uploaded",
+        "title": "Google Meet Link Uploaded",
+        "message": "Your interviewer has uploaded the Google Meet link for your interview.",
+        "meetingLink": "https://meet.google.com/uyc-ovts-gow",
+        "bookingId": "1778595232239",
+        "createdAt": "2026-05-12T14:14:31.146Z",
+        "read": false
+      },
+      {
+        "id": "notif-1778595275326-1778595232239",
+        "recipientId": "1778594800783",
+        "recipientRole": "student",
+        "type": "interview_completed",
+        "title": "Interview Completed",
+        "message": "Your interviewer marked the interview as successful. Please share your feedback.",
+        "bookingId": "1778595232239",
+        "createdAt": "2026-05-12T14:14:35.326Z",
+        "read": false
+      },
+      {
+        "id": "notif-1778595318001-1778595232239",
+        "recipientId": "1778594831341",
+        "recipientRole": "interviewer",
+        "type": "student_feedback_submitted",
+        "title": "Student Feedback Received",
+        "message": "sunny submitted interview feedback.",
+        "bookingId": "1778595232239",
+        "createdAt": "2026-05-12T14:15:18.001Z",
+        "read": false
+      }
+    ],
+    "studentFeedback": {
+      "rating": 3,
+      "comments": "asd",
+      "submittedAt": "2026-05-12T14:15:18.001Z"
+    }
+  },
+  {
+    "id": "1778595386679",
+    "studentId": "1778594800783",
+    "studentName": "sunny",
+    "interviewerId": "1778594831341",
+    "domain": "Frontend Development",
+    "preferredSlots": [
+      {
+        "date": "2026-05-12",
+        "time": "10:00-12:00",
+        "label": "2026-05-12 10:00-12:00"
+      }
+    ],
+    "selectedSlot": null,
+    "date": "2026-05-12",
+    "slot": "10:00-12:00",
+    "status": "pending",
+    "paymentProof": null,
+    "paymentStatus": null,
+    "meetingLink": null,
+    "approvalDeadlineAt": "2026-05-12T20:16:26.679Z",
+    "interviewerMessage": "",
+    "createdAt": "2026-05-12T14:16:26.679Z",
+    "updatedAt": "2026-05-12T14:16:26.679Z",
+    "notifications": [
+      {
+        "id": "notif-1778595386679-interviewer",
+        "recipientRole": "interviewer",
+        "type": "booking_requested",
+        "message": "sunny requested an interview with 1 preferred slot(s).",
+        "createdAt": "2026-05-12T14:16:26.679Z",
+        "read": false
+      }
+    ]
+  },
+  {
+    "id": "1778598834038",
+    "studentId": "1778594800783",
+    "studentName": "sunny",
+    "interviewerId": "1778594831341",
+    "domain": "General/HR",
+    "preferredSlots": [
+      {
+        "date": "2026-05-12",
+        "time": "10:00-12:00",
+        "label": "2026-05-12 10:00-12:00"
+      }
+    ],
+    "selectedSlot": {
+      "date": "2026-05-12",
+      "time": "10:00-12:00",
+      "label": "2026-05-12 10:00-12:00"
+    },
+    "date": "2026-05-12",
+    "slot": "10:00-12:00",
+    "status": "confirmed",
+    "paymentProof": "/uploads/1778598834015-gopal.jpeg",
+    "paymentProofName": "gopal.jpeg",
+    "paymentStatus": "verified",
+    "paymentVerifiedAt": "2026-05-12T15:14:35.660Z",
+    "paymentVerifiedBy": "1778594831341",
+    "meetingLink": null,
+    "approvalDeadlineAt": "2026-05-12T21:13:54.038Z",
+    "interviewerMessage": "",
+    "createdAt": "2026-05-12T15:13:54.038Z",
+    "updatedAt": "2026-05-12T15:14:41.117Z",
+    "notifications": [
+      {
+        "id": "notif-1778598834038-interviewer",
+        "recipientRole": "interviewer",
+        "type": "booking_requested",
+        "message": "sunny requested an interview with 1 preferred slot(s).",
+        "createdAt": "2026-05-12T15:13:54.038Z",
+        "read": false
+      },
+      {
+        "id": "notif-1778598875660-1778598834038",
+        "recipientId": "1778594800783",
+        "recipientRole": "student",
+        "type": "payment_verified",
+        "title": "Payment Verified",
+        "message": "Payment verified. Your interview request is ready for acceptance.",
+        "bookingId": "1778598834038",
+        "createdAt": "2026-05-12T15:14:35.660Z",
+        "read": false
+      },
+      {
+        "id": "notif-1778598881117-1778598834038",
+        "recipientId": "1778594800783",
+        "recipientRole": "student",
+        "type": "booking_accepted",
+        "title": "Booking Accepted",
+        "message": "Your interview booking has been accepted.",
+        "bookingId": "1778598834038",
+        "createdAt": "2026-05-12T15:14:41.117Z",
+        "read": false
+      }
+    ]
+  }
+]

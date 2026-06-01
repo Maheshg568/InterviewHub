@@ -1,0 +1,49 @@
+Interview Experience Hub - Demo Script (60–90 seconds)
+=======================================================
+
+**Preparation:**
+Make sure backend and frontend are running (`npm run dev` in both, or `node server.js` + `npm run dev`).
+Make sure `npm run seed` was executed in the backend folder to create the test accounts.
+
+**The Pitch (15 seconds)**
+"Welcome to Interview Experience Hub. This platform bridges the gap between students and industry experts, giving students real-world interview practice, structured feedback, and AI-assisted preparation before they face real job interviews."
+
+---
+
+**The Walkthrough (60 seconds)**
+
+1. **Landing Page:**
+   Show the clean, minimalist landing page with the hero background and call-to-action buttons.
+
+2. **Register/Login:**
+   "Let's log in as our demo student, Alice."
+   Log in with `student@demo.com` / `password123`.
+
+3. **Student Dashboard & Book:**
+   Show the student dashboard. See the "Milestone" celebration banner for her past completed interview.
+   Click "Book Slot" for Bob Interviewer (Google).
+   Select "Frontend Development", choose a date and slot.
+   Check the "Use Simulated Payment" box for the demo (bypasses file upload requirement).
+   Submit. "The booking is now pending verification."
+
+4. **Interviewer Accept:**
+   Open a new tab (or incognito) and log in as `interviewer@demo.com` / `password123`.
+   Show the Interviewer Dashboard stats.
+   Find Alice's pending request. Note the payment is awaiting/simulated. 
+   Paste a dummy Zoom link (e.g., https://zoom.us/j/123) and click "Accept & Confirm".
+
+5. **Feedback:**
+   "Once the interview ends, the interviewer provides structured feedback."
+   Click "Complete Interview & Give Feedback".
+   Fill out the scorecard (1-10) and type a short comment: "Alice did great on React hooks!"
+   Submit Feedback.
+
+6. **Progress View & AI Practice:**
+   Go back to the Student window and refresh the dashboard.
+   Scroll down to "Recent Feedback" and show the new feedback card with the scores and comment.
+   Finally, click "AI Practice Module" at the top.
+   Select "React Frontend" and click "Start Practice".
+   Show how OpenAI generates 5 rapid-fire practice questions for Alice to prepare independently.
+
+**Closing (5 seconds)**
+"And that's how IEH empowers students with real experience, clear progress tracking, and AI-driven practice. Thank you!"
